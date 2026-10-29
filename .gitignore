@@ -1,0 +1,40 @@
+# Operating System metadata
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE & Editor directories
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Environment & Secret files
+.env
+.env.*
+*.pem
+*.key
+
+# Temporary & backup snapshots
+*.bak
+*.backup-*
+*.swp
+*~
+
+# Python test & cache artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Development audit & scratch workspace
+scratch/
+
+# Internal strategy & non-production documentation
+SEO-RESEARCH-AND-CONTENT-STRATEGY.md
+TeamOnTime-OS-2026-SEO-Master-Strategy.md
+WEBSITE_CONTENT.md
+svgwalkthrough.md

@@ -1,0 +1,23 @@
+{
+  "name": "TeamOnTime",
+  "short_name": "TeamOnTime",
+  "description": "White-label delivery infrastructure for growth agencies. Shopify, WordPress, SEO fulfillment under NDA.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F8F6F2",
+  "theme_color": "#FF7A00",
+  "icons": [
+    {
+      "src": "/assets/favicons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/assets/favicons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ]
+}

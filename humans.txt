@@ -1,0 +1,16 @@
+/* TEAM */
+  Core Developers: TeamOnTime Engineering Desk
+  Website: https://teamontime.com
+  Contact: partners@teamontime.com
+  Identity: Anonymous by Design
+
+/* SITE */
+  Standards: HTML5, CSS3, ES6 JavaScript
+  Architecture: Static HTML, Modular CSS Variables, Vanilla JS Motion Orchestrator
+  Analytics: GTM-W8MSXMWG (Privacy-Respecting DNT compliance checks integrated)
+  Fonts: Outfit, Bodoni Moda, Inter (via Google Fonts)
+  SEO: Connected JSON-LD Entity Graph, Clean Canonical Routing
+  Hosting: Apache Static Web Server, GZIP Deflate, Optimized Caching Rules
+
+/* THANKS */
+  To the agency partners who trust us to power their clients' digital storefronts and systems behind the scenes.
